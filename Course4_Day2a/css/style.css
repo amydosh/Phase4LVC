@@ -1,0 +1,18 @@
+/* If you want to overwrite some of the bootstrap formatting, you can copy the items you want to 
+change and paste in a custom style.css with your tweaked numbers */
+
+
+  .bg-one {
+    background-color: aquamarine;
+    border: 2px solid grey !important;
+  }
+
+  .bg-two {
+    background-color: white;
+    border: 2px solid grey;
+  }
+
+  .bg-three {
+    background-color:violet;
+    border: 2px solid grey;
+  }
